@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background: linear-gradient(#000 0%, #fff 100%);
+}
+#home{
+      color: whitesmoke;
+      font-weight: bolder;
+      font-style:italic;
+      background-image: url(https://thumbs.gfycat.com/FaithfulSlowCoelacanth-max-1mb.gif);
+}
+#home h1{
+    border-width: 30px;
+    border-color: whitesmoke;
+}
+#home h3{
+    border-width: 30px;
+    border-color: whitesmoke;
+}
+#home h5{
+    border-width: 30px;
+    border-color: whitesmoke;
+}
+html{
+    scroll-behavior: smooth;
+}
+#pictures hr{
+     width: 230px;
+}
+#videos hr{
+    width: 230px;
+}
